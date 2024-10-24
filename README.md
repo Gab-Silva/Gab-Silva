@@ -6,9 +6,9 @@ Olá! Meu nome é Gabriel. Sou apaixonado por programação e estou sempre busca
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=Gab-Silva&theme=tokyonight&show_icons=true&card_width=100"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Gab-Silva&theme=tokyonight&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gab-Silva&layout=compact&theme=tokyonight&langs_count=8&card_width=100"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=Gab-Silva&layout=compact&theme=tokyonight&langs_count=8&card_width=100"/>
 </a>
 </div>
