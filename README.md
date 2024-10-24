@@ -7,3 +7,9 @@
 -->
 
 Olá! Meu nome é Gabriel. Sou apaixonado por programação e estou sempre buscando aprender mais a cada dia. Sou fã de café, games e música, além das minhas duas gatas, que sempre trazem alegria ao meu dia a dia. Sinta-se à vontade para explorar meu perfil e os projetos que compartilho aqui! 👋
+
+- 🔭 Atualmente, estou trabalhando com Front-end
+- 🌱 Atualmente, estou aprendendo JavaScript, TypeScript, HTML, CSS, REACT.
+- 😄 Pronomes: Ele / dele
+- ⚡ Fun fact: ...
+-->
