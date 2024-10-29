@@ -4,7 +4,7 @@ Olá! Meu nome é Gabriel. Sou apaixonado por programação e estou sempre busca
 
 ##
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 display=flex src="https://github-readme-stats.vercel.app/api?username=Gab-Silva&theme=tokyonight&show_icons=true"/>
   </a>
