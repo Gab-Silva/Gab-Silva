@@ -14,5 +14,5 @@ Olá! Meu nome é Gabriel. Sou apaixonado por programação e estou sempre busca
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Gab-Js" height="30" width="40" src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor">
-<img align="center" alt="Gab-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js,html,css,wasm">
+<img align="center" alt="Gab-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js,html,css">
 </div>
