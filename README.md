@@ -1,6 +1,6 @@
 ## Hi, I’m Gabriel. I’m still finding my way in the world of code, but I’m loving every lesson along the road. Between cups of coffee, a few games, some music, and the company of my two playful cats, I tinker with small projects and learn a bit more each day. Take a look around if you’d like to follow the journey! 👋
-_____________________________________________________________________________________________________________________________________________________________________________________________________________
-# Oi, eu sou o Gabriel. Ainda estou encontrando meu caminho no mundo da programação, mas estou curtindo cada lição ao longo da jornada. Entre xícaras de café, alguns jogos, um pouco de música e a companhia das minhas duas gatinhas brincalhonas, mexo em pequenos projetos e aprendo um pouco mais a cada dia. Sinta‑se à vontade para acompanhar essa jornada! 👋
+
+### Oi, eu sou o Gabriel. Ainda estou encontrando meu caminho no mundo da programação, mas estou curtindo cada lição ao longo da jornada. Entre xícaras de café, alguns jogos, um pouco de música e a companhia das minhas duas gatinhas brincalhonas, mexo em pequenos projetos e aprendo um pouco mais a cada dia. Sinta‑se à vontade para acompanhar essa jornada! 👋
 
 ##
 
