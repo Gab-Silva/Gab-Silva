@@ -1,6 +1,6 @@
-## Hey, there! My name is Gabriel. I'm passionate about programming and I strive to learn something new every day. I'm a fan of coffee, games, and music, as well as my two cats, who always bring joy to my daily life. Feel free to explore my profile and the projects I share here! 👋
-
-Olá! Meu nome é Gabriel. Sou apaixonado por programação e estou sempre buscando aprender mais a cada dia. Sou fã de café, games e música, além das minhas duas gatas, que sempre trazem alegria ao meu dia a dia. Sinta-se à vontade para explorar meu perfil e os projetos que compartilho aqui! 👋
+## Hi, I’m Gabriel. I’m still finding my way in the world of code, but I’m loving every lesson along the road. Between cups of coffee, a few games, some music, and the company of my two playful cats, I tinker with small projects and learn a bit more each day. Take a look around if you’d like to follow the journey! 👋
+_____________________________________________________________________________________________________________________________________________________________________________________________________________
+# Oi, eu sou o Gabriel. Ainda estou encontrando meu caminho no mundo da programação, mas estou curtindo cada lição ao longo da jornada. Entre xícaras de café, alguns jogos, um pouco de música e a companhia das minhas duas gatinhas brincalhonas, mexo em pequenos projetos e aprendo um pouco mais a cada dia. Sinta‑se à vontade para acompanhar essa jornada! 👋
 
 ##
 
