@@ -1,11 +1,5 @@
 ## 👋 Hiii! Welcome to my place. I’m finding my way in the world of code, between cups of coffee☕, some music🎸, and the company of cats🐈‍⬛. I tinker with small projects and learn a bit more each day. Take a look around!
 
-<div style="display: inline_block">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 display=flex src="https://github-readme-stats.vercel.app/api/top-langs?username=Gab-Silva&layout=compact&theme=tokyonight&langs_count=8&card_width=100"/>
-  </a>
-</div>
-
 ##
 
 <div style="display: inline_block"><br>
